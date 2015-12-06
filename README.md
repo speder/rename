@@ -1,1 +1,1 @@
-rename files from the command line
+rename files from the command line with regular expressions

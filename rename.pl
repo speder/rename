@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 
 use constant VERBOSE => 1;
 use constant PROMPT => 1;
